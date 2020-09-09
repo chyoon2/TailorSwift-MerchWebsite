@@ -26,7 +26,7 @@ function MerchAdd(props) {
           type='text'
           name='category'
           placeholder='Item Category' />
-        <button type='submit' value='ADD ITEM' />
+        <button type='submit'>ADD ITEM </button>
       </form>
     </ React.Fragment>
   );

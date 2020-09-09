@@ -1,11 +1,9 @@
 import React from 'react';
 
-function App() {
+function Header() {
   return (
-    <React.Fragment>
-
-    </React.Fragment>
+    <h1> Tailor Swift Merch Shop</h1>
   );
 }
 
-export default App;
+export default Header;

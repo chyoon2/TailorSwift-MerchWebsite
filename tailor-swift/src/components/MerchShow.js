@@ -22,3 +22,5 @@ function MerchShow(props) {
 MerchShow.propTypes = {
   merchShow: PropTypes.array
 };
+
+export default MerchShow;
