@@ -18,7 +18,7 @@ function MerchAdd(props) {
           type='text'
           name='quantity'
           placeholder='Item Qty' />
-        <textarea
+        <input
           type='text'
           name='description'
           placeholder='Item Desc.' />
